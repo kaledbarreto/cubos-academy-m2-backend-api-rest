@@ -2,7 +2,7 @@
 
 # Desenvolvimento de Software
 
-## Módulo 02 - Front-end
+## Módulo 02 - Back-end
 
 - Api Rest
 
